@@ -57,6 +57,22 @@ main {
     border: 0.1rem solid seashell;
     border-radius: 26rem;
     font-style: italic;
+    margin-top: 0.5rem;
+    text-align: start;
+}
+
+.title{
+    font-style: italic;
+}
+
+.td-image {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.td-bold {
+    font-weight: bold;
 }
 
 .bg-blue-w-full{
