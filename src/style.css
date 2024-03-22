@@ -11,6 +11,7 @@ body{
 
 a{
     text-decoration: none;
+    color: #1E90FF;
 }
 
 table {
@@ -39,7 +40,8 @@ main {
 .image-border {
     border-radius: 50%;
     color: #000;
-    border: 0.01rem solid #000;
+    border: 0.3rem solid #000;
+    background-color: #000;
 }
 
 .info {
@@ -99,7 +101,6 @@ main {
     padding: 0.01rem 1rem 1rem;
     width: 15rem;   
     border-radius: 1rem;
-
 }
 
 footer {
